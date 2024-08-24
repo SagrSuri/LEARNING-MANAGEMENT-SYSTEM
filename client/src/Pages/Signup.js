@@ -124,7 +124,7 @@ const Signup = () => {
               <img
                 className="w-24 h-24 rounded-full m-auto"
                 src={previewImage}
-                alt="preview image"
+                alt="preview_image"
               />
             ) : (
               <BsPersonCircle className="w-24 h-24 rounded-full m-auto" />

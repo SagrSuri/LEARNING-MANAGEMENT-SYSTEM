@@ -27,7 +27,7 @@ const Profile = () => {
           <img
             className="w-40 m-auto rounded-full border border-black"
             src={userData?.avatar?.secure_url}
-            alt="user profile image"
+            alt="user_profile_image"
           />
 
           <h3 className="text-xl font-semibold text-center capitalize">
